@@ -96,3 +96,10 @@ background-color: #ff5e00;
     margin-bottom: 10px;
     margin-top: -8px;
 }
+
+.food-images {
+display: block;
+margin: 0 auto;
+background-color: #864f4f;
+padding: 10px;
+}
