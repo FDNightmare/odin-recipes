@@ -58,6 +58,7 @@ background-color: #ff5e00;
     width: 300px;
     margin: 0 auto;
     padding: 30px;
+    margin-top: 30px;
 }
 
 .lasagna {
@@ -82,7 +83,16 @@ background-color: #ff5e00;
 .index-img {
     width: 300px;
     height: 200px;
-    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto;
     margin-top: -90px;
-    margin-left: 270px;
+    margin-bottom: 10px;
+}
+
+.img-credit {
+    font-size: 9px;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: -8px;
 }
