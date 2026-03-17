@@ -82,4 +82,7 @@ background-color: #ff5e00;
 .index-img {
     width: 300px;
     height: 200px;
+    margin-bottom: 10px;
+    margin-top: -90px;
+    margin-left: 270px;
 }
