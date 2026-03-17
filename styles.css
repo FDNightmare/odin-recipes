@@ -103,3 +103,20 @@ margin: 0 auto;
 background-color: #864f4f;
 padding: 10px;
 }
+
+#home-button {
+    margin-top: -90px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    display: flex;
+    background-color: rgb(124, 39, 39);
+    width: 70px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+#home-button:hover {
+    background-color: #a14e1e;
+}
