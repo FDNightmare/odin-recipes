@@ -182,10 +182,15 @@ font-size: 15px;
 cursor: pointer;
 padding: 10px;
 border-radius: 4px;
+font-style: oblique;
+margin-bottom: 20px;
+display: block;
+width: 100px;
+font-weight: 500;
 }
 
 #back-to-top-btn:hover {
-    background-color: #ff5e00;
+    background-color: #a14e1e;
 }
 
 #top {
