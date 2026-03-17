@@ -130,10 +130,6 @@ h2 {
     background-color: rgb(199, 62, 62);
 }
 
-.recipe-text {
-
-}
-
 ul,
 ol {
     list-style-position: outside;
@@ -191,8 +187,4 @@ font-weight: 500;
 
 #back-to-top-btn:hover {
     background-color: #a14e1e;
-}
-
-#top {
-
 }
